@@ -22,7 +22,9 @@
 			"city": "Dallas",
 			"description": "Get more stuff",
 			"schedule": {
-				"scheduledDates": []
+				"scheduledDates": [
+					"2020-03-24"
+				]
 			}
 		},
 		{
@@ -33,7 +35,9 @@
 			"city": "Rowlett",
 			"description": "Remove all the things",
 			"schedule": {
-				"scheduledDates": []
+				"scheduledDates": [
+					"2020-03-30"
+				]
 			}
 		},
 		{
@@ -44,7 +48,9 @@
 			"city": "Dallas",
 			"description": "Add more things",
 			"schedule": {
-				"scheduledDates": []
+				"scheduledDates": [
+					"2020-03-27"
+				]
 			}
 		}
 	]
