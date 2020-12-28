@@ -12,6 +12,15 @@
 					"2020-03-24",
 					"2020-03-17"
 				]
+			},
+			"deadline": {
+				"deadlineDates": []
+			},
+			"requested": {
+				"requestedDates": []
+			},
+			"promised": {
+				"promisedDates": []
 			}
 		},
 		{
@@ -25,6 +34,17 @@
 				"scheduledDates": [
 					"2020-03-24"
 				]
+			},
+			"deadline": {
+				"deadlineDates": [
+					"2020-12-07"
+				]
+			},
+			"requested": {
+				"requestedDates": []
+			},
+			"promised": {
+				"promisedDates": []
 			}
 		},
 		{
@@ -38,6 +58,15 @@
 				"scheduledDates": [
 					"2020-03-30"
 				]
+			},
+			"deadline": {
+				"deadlineDates": []
+			},
+			"requested": {
+				"requestedDates": []
+			},
+			"promised": {
+				"promisedDates": []
 			}
 		},
 		{
@@ -51,6 +80,15 @@
 				"scheduledDates": [
 					"2020-03-27"
 				]
+			},
+			"deadline": {
+				"deadlineDates": []
+			},
+			"requested": {
+				"requestedDates": []
+			},
+			"promised": {
+				"promisedDates": []
 			}
 		}
 	]
